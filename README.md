@@ -156,7 +156,6 @@ pip install pandas numpy scipy scikit-learn matplotlib seaborn jupyter
 
 - 683380080-1 นาย ธราเทพ พิมพิศาล
 - 683380067-3 นาย จักรกฤษณ์ แสนตา
-- อาจารย์ที่ปรึกษา: อ.ธนพล ตั้งชูพงศ์
 
 ## อ้างอิง
 
